@@ -17,9 +17,22 @@ console.log(obj.name);
 
 // console.log(answers);
 
-const category = 'cats';
-console.log(`https://someurl.com/${category}`);
+// const category = 'cats';
+// console.log(`https://someurl.com/${category}`);
 
-const name = "Nikita";
-alert(`Привет, ${name}`);
+// const name = "Nikita";
+// alert(`Привет, ${name}`);
 
+console.log (+'5' + 4);
+
+let incr = 10,
+    decr = 10,
+    incr1 = 10,
+    decr1 = 10;
+
+
+
+console.log(incr++);
+console.log(incr);
+
+console.log(3%4);
